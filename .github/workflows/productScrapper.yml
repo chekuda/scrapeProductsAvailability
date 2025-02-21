@@ -22,17 +22,13 @@ jobs:
         run: |
           pip install requests beautifulsoup4
 
-      - name: Verificar autenticación
-        run: |
-          git ls-remote https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/chekuda/scrapeProductsAvailability.git
-
       - name: Ejecutar el scraper
         run: python scrapperProductsJSON.py
 
       - name: Configurar Git
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "chekuda"
+          git config --global user.email "joselchecaexpo@gmail.com"
 
       - name: Agregar y confirmar cambios
         run: |
