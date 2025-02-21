@@ -18,11 +18,6 @@ def is_text_visible(element):
     """ Verifica si un elemento tiene texto visible y no está oculto por CSS """
     if element.parent.name in ["script", "style", "meta", "head", "title"]:
         return False
-    style = element.parent.get("style", "")
-    if "display: none" in style:
-        return False
-    if "display: block" in style or "display: inline" in style:
-        return True
     return True  # Si no hay estilo, se asume que es visible
 
 def check_product_availability(urls):
@@ -38,6 +33,12 @@ def check_product_availability(urls):
                 continue
             
             soup = BeautifulSoup(response.text, 'html.parser')
+            # Detectar si el div principal tiene la clase 'price--sold-out'
+            product_div = soup.find("div", class_="price")
+            if product_div and "price--sold-out" in product_div.get("class", []):
+                results["agotados"].append(url)
+                continue
+            
             visible_texts = [text.lower() for text in soup.find_all(string=True) if is_text_visible(text)]
         
             if any(keyword in visible_texts for keyword in ["agotado", "sin stock", "sold out"]):
@@ -52,7 +53,7 @@ def check_product_availability(urls):
 if __name__ == "__main__":
     file_path = product_file_path_name  # Archivo JSON con las URLs organizadas por proveedor
     timestamp = datetime.datetime.now().strftime("%H-%M_%d-%m-%Y")
-    output_path = f"./resultados_{timestamp}.json"  # Archivo de salida con marca de tiempo
+    output_path = f"./resultados/resultados_{timestamp}.json"  # Archivo de salida con marca de tiempo
     proveedores = get_urls_from_json(file_path)
     
     resultados_finales = {"proveedores": {}}

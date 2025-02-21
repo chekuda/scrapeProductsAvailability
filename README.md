@@ -1,8 +1,9 @@
 ## How to use it
 
+- Always first git pull --rebase for new result files
 ## Entry file
   - productUrl.json
-  Add all the urls of the products in here and remove the urls for products that has been run out.
+  Add all the urls of the new products in here and remove the urls for products that has been run out.
 
 ## Output file
 - resultado_HOUR-MIN_DAY_MONTH_YEAR.json
@@ -11,8 +12,3 @@
 
 ## Run the script
 - python3 scrapperProductsJSON.py
-
-
-## tasks
-
-Check agotados for not the same and guadarrama cos it not taking them as agotados

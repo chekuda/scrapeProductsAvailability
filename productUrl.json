@@ -15,8 +15,7 @@
       "urls": [
         "https://notthesame.es/en/products/cafe-de-especialidad-mexico",
         "https://notthesame.es/en/products/cafe-especialidad-honduras-manos-de-mujer",
-        "https://notthesame.es/en/products/cafe-de-especialidad-colombia",
-        "https://notthesame.es/en/products/cafe-de-especialidad-brasil"
+        "https://notthesame.es/en/products/cafe-de-especialidad-colombia"
       ]
     },
     "atmans": {
@@ -67,8 +66,7 @@
     },
     "guadarrama": {
       "urls": [
-        "https://guadarrama.coffee/products/siete-picos",
-        "https://guadarrama.coffee/products/cabanillas-del-monte"
+        "https://guadarrama.coffee/products/siete-picos"
       ]
     },
     "coffeeUrban": {
