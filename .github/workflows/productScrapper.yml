@@ -33,5 +33,8 @@ jobs:
       - name: Agregar y confirmar cambios
         run: |
           git add resultados_*.json
-          git commit -m "Añadir resultados diarios [Automático]"
-          git push origin main
+          git commit -m "Añadir resultados diarios [Automático]" || echo "No hay cambios que hacer"
+
+      - name: Subir cambios al repositorio
+        run: |
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/chekuda/scrapeProductsAvailability.git main
