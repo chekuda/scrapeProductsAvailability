@@ -22,6 +22,10 @@ jobs:
         run: |
           pip install requests beautifulsoup4
 
+      - name: Verificar autenticación
+        run: |
+          git ls-remote https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/chekuda/scrapeProductsAvailability.git
+
       - name: Ejecutar el scraper
         run: python scrapperProductsJSON.py
 
