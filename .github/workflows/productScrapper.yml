@@ -37,4 +37,4 @@ jobs:
 
       - name: Subir cambios al repositorio
         run: |
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/chekuda/scrapeProductsAvailability.git main
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/chekuda/scrapeProductsAvailability.git HEAD:main
