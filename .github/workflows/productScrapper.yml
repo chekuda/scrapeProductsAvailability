@@ -24,3 +24,14 @@ jobs:
 
       - name: Ejecutar el scraper
         run: python scrapperProductsJSON.py
+
+      - name: Configurar Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Agregar y confirmar cambios
+        run: |
+          git add resultados_*.json
+          git commit -m "Añadir resultados diarios [Automático]"
+          git push origin main
