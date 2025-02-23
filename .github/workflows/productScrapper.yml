@@ -32,7 +32,7 @@ jobs:
 
       - name: Agregar y confirmar cambios
         run: |
-          git add resultados_*.json
+          git add .
           git commit -m "Añadir resultados diarios [Automático]" || echo "No hay cambios que hacer"
 
       - name: Subir cambios al repositorio
