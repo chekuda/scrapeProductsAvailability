@@ -1,0 +1,88 @@
+{
+    "proveedores": {
+        "ineffable": {
+            "disponibles": [
+                "https://ineffablecoffee.com/producto/mama-mina-pacamara-peaberry-nicaragua-lavado/",
+                "https://ineffablecoffee.com/producto/bookkisa-etiopia-natural/",
+                "https://ineffablecoffee.com/producto/edwin-norena-red-colombia-mossto-72h-co-fermentado/",
+                "https://ineffablecoffee.com/producto/el-rubi-colombia-lavado/",
+                "https://ineffablecoffee.com/producto/brioschi-family-brasil-lavado/",
+                "https://ineffablecoffee.com/producto/las-brisas-guatemala-lavado/",
+                "https://ineffablecoffee.com/producto/cafe-descafeinado-swiss-water/"
+            ],
+            "agotados": []
+        },
+        "notTheSame": {
+            "disponibles": [
+                "https://notthesame.es/en/products/cafe-de-especialidad-mexico",
+                "https://notthesame.es/en/products/cafe-especialidad-honduras-manos-de-mujer",
+                "https://notthesame.es/en/products/cafe-de-especialidad-colombia"
+            ],
+            "agotados": []
+        },
+        "atmans": {
+            "disponibles": [
+                "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/la-florcita-costa-rica",
+                "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/los-manantiales-bourbon-geisha-guatemala",
+                "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/bombona-colombia",
+                "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/fazenda-paraiso-brazil",
+                "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/kefalech-tariku-ethiopia",
+                "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/blaq-soul-costa-rica"
+            ],
+            "agotados": []
+        },
+        "sanAgustin": {
+            "disponibles": [],
+            "agotados": [
+                "https://www.sanagustin.com/producto/satus-colombia/",
+                "https://www.sanagustin.com/producto/el-diviso-colombia/",
+                "https://www.sanagustin.com/producto/rio-ocho-guatemala/",
+                "https://www.sanagustin.com/producto/finca-la-incea-honduras/",
+                "https://www.sanagustin.com/producto/lalesa-etiopia/",
+                "https://www.sanagustin.com/producto/chelbesa-etiopia/",
+                "https://www.sanagustin.com/producto/santa-barbara/",
+                "https://www.sanagustin.com/producto/morada-do-sol-brasil/"
+            ]
+        },
+        "cafeDeFinca": {
+            "disponibles": [
+                "https://cafedefinca.eu/producto/santa-cecilia-drip/",
+                "https://cafedefinca.eu/producto/san-jose-espresso/",
+                "https://cafedefinca.eu/producto/tres-milagros-costa-rica-2/",
+                "https://cafedefinca.eu/producto/cielito-lindo/",
+                "https://cafedefinca.eu/producto/santa-cecilia-espresso/",
+                "https://cafedefinca.eu/producto/supremo-espresso/",
+                "https://cafedefinca.eu/producto/himalaya-espresso/"
+            ],
+            "agotados": []
+        },
+        "talento": {
+            "disponibles": [
+                "https://talentocoffee.com/products/costa-rica-valle-central",
+                "https://talentocoffee.com/products/ethiopia-limu-gera"
+            ],
+            "agotados": [
+                "https://talentocoffee.com/products/honduras-marcala-las-flores"
+            ]
+        },
+        "pamCoffee": {
+            "disponibles": [
+                "https://www.pamcoffee.es/en/products/mujeres-de-amprocal-honduras"
+            ],
+            "agotados": []
+        },
+        "guadarrama": {
+            "disponibles": [
+                "https://guadarrama.coffee/products/siete-picos"
+            ],
+            "agotados": []
+        },
+        "coffeeUrban": {
+            "disponibles": [
+                "https://coffeeurbanroasters.com/africa/67-etiopia-yirgacheffe.html",
+                "https://coffeeurbanroasters.com/sudamerica/40-brasil-mare-blue.html"
+            ],
+            "agotados": []
+        }
+    }
+}
