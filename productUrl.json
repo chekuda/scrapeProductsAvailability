@@ -76,6 +76,14 @@
         "https://coffeeurbanroasters.com/africa/67-etiopia-yirgacheffe.html",
         "https://coffeeurbanroasters.com/sudamerica/40-brasil-mare-blue.html"
       ]
+    },
+    "dalstonCoffee": {
+      "urls": [
+        "https://dalstoncoffee.com/products/new-guatemala-primavera-family-espresso",
+        "https://dalstoncoffee.com/products/tanzania-tembo-tembo",
+        "https://dalstoncoffee.com/products/etiopia-banko-gotiti-omni",
+        "https://dalstoncoffee.com/products/el-salvador-finca-anarquia-omni"
+      ]
     }
   }
 }
