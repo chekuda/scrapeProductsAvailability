@@ -20,7 +20,6 @@
     },
     "atmans": {
       "urls": [
-        "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/la-florcita-costa-rica",
         "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/los-manantiales-bourbon-geisha-guatemala",
         "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/bombona-colombia",
         "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/fazenda-paraiso-brazil",
@@ -62,12 +61,15 @@
     "pamCoffee": {
       "urls": [
         "https://www.pamcoffee.es/en/products/hernan-ramirez-natural-peru",
-        "https://www.pamcoffee.es/en/products/52-inza-regional-colombia"
+        "https://www.pamcoffee.es/en/products/52-inza-regional-colombia",
+        "https://www.pamcoffee.es/en/products/guadalupe-zaju-natural-mexico"
       ]
     },
     "guadarrama": {
       "urls": [
-        "https://guadarrama.coffee/products/siete-picos"
+        "https://guadarrama.coffee/products/siete-picos",
+        "https://guadarrama.coffee/products/la-granja",
+        "https://guadarrama.coffee/products/aneto"
       ]
     },
     "coffeeUrban": {
