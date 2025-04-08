@@ -86,6 +86,14 @@
         "https://dalstoncoffee.com/products/el-salvador-finca-anarquia-omni",
         "https://dalstoncoffee.com/products/el-salvador-ovidio-flores"
       ]
+    },
+    "gumaCoffee": {
+      "urls": [
+        "https://gumacoffee.com/products/blue-bear",
+        "https://gumacoffee.com/products/pink-tiger",
+        "https://gumacoffee.com/products/red-whale",
+        "https://gumacoffee.com/products/yellow-elephant"
+      ]
     }
   }
 }
