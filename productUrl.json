@@ -6,7 +6,6 @@
         "https://ineffablecoffee.com/producto/edwin-norena-red-colombia-mossto-72h-co-fermentado/",
         "https://ineffablecoffee.com/producto/el-rubi-colombia-lavado/",
         "https://ineffablecoffee.com/producto/brioschi-family-brasil-lavado/",
-        "https://ineffablecoffee.com/producto/las-brisas-guatemala-lavado/",
         "https://ineffablecoffee.com/producto/cafe-descafeinado-swiss-water/",
         "https://ineffablecoffee.com/producto/tibebu-roba-etiopia-natural/",
         "https://ineffablecoffee.com/producto/rodolfo-ruffatti-el-salvador-natural/"
@@ -65,7 +64,6 @@
         "https://www.pamcoffee.es/en/products/hernan-ramirez-natural-peru",
         "https://www.pamcoffee.es/en/products/52-inza-regional-colombia",
         "https://www.pamcoffee.es/en/products/guadalupe-zaju-natural-mexico",
-        "https://talentocoffee.com/products/peru-san-ignacio"
       ]
     },
     "guadarrama": {
@@ -83,7 +81,6 @@
     "dalstonCoffee": {
       "urls": [
         "https://dalstoncoffee.com/products/etiopia-banko-gotiti-omni",
-        "https://dalstoncoffee.com/products/el-salvador-finca-anarquia-omni",
         "https://dalstoncoffee.com/products/el-salvador-ovidio-flores"
       ]
     },
@@ -93,6 +90,15 @@
         "https://gumacoffee.com/products/pink-tiger",
         "https://gumacoffee.com/products/red-whale",
         "https://gumacoffee.com/products/yellow-elephant"
+      ]
+    },
+    "sensorial": {
+      "urls": [
+        "https://sensorial.coffee/producto/cafe-de-colombia-wush-wush-natural/",
+        "https://sensorial.coffee/producto/cafe-de-costa-rica-yellow-honey/",
+        "https://sensorial.coffee/producto/cafe-de-mexico-criollo-honey/",
+        "https://sensorial.coffee/producto/pack-cafe-con-leche/",
+        "https://sensorial.coffee/producto/cafe-de-colombia-bs-washed-fermented/"
       ]
     }
   }

@@ -14,27 +14,26 @@
             "agotados": []
         },
         "notTheSame": {
-            "disponibles": [],
-            "agotados": [
+            "disponibles": [
                 "https://notthesame.es/en/products/cafe-de-especialidad-mexico",
                 "https://notthesame.es/en/products/cafe-especialidad-honduras-manos-de-mujer",
                 "https://notthesame.es/en/products/cafe-de-especialidad-colombia",
                 "https://notthesame.es/en/products/decaf-colombia-el-puente"
-            ]
+            ],
+            "agotados": []
         },
         "atmans": {
-            "disponibles": [],
-            "agotados": [
+            "disponibles": [
                 "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/los-manantiales-bourbon-geisha-guatemala",
                 "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/fazenda-paraiso-brazil",
                 "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/kefalech-tariku-ethiopia",
                 "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/blaq-soul-costa-rica",
                 "https://www.atmanscoffee.com/en/products/giku-burundi"
-            ]
+            ],
+            "agotados": []
         },
         "sanAgustin": {
-            "disponibles": [],
-            "agotados": [
+            "disponibles": [
                 "https://www.sanagustin.com/producto/satus-colombia/",
                 "https://www.sanagustin.com/producto/finca-la-incea-honduras/",
                 "https://www.sanagustin.com/producto/lalesa-etiopia/",
@@ -44,7 +43,8 @@
                 "https://www.sanagustin.com/producto/colombia-descafeinado-huila/",
                 "https://www.sanagustin.com/producto/sao-pedro-da-canastra/",
                 "https://www.sanagustin.com/producto/nyamasheke-ruanda/"
-            ]
+            ],
+            "agotados": []
         },
         "cafeDeFinca": {
             "disponibles": [
@@ -59,28 +59,28 @@
             "agotados": []
         },
         "talento": {
-            "disponibles": [],
-            "agotados": [
+            "disponibles": [
                 "https://talentocoffee.com/products/ethiopia-limu-gera",
                 "https://talentocoffee.com/products/rwanda-kivu",
                 "https://talentocoffee.com/products/regional"
-            ]
+            ],
+            "agotados": []
         },
         "pamCoffee": {
-            "disponibles": [],
-            "agotados": [
+            "disponibles": [
                 "https://www.pamcoffee.es/en/products/hernan-ramirez-natural-peru",
                 "https://www.pamcoffee.es/en/products/52-inza-regional-colombia",
                 "https://www.pamcoffee.es/en/products/guadalupe-zaju-natural-mexico",
                 "https://talentocoffee.com/products/peru-san-ignacio"
-            ]
+            ],
+            "agotados": []
         },
         "guadarrama": {
-            "disponibles": [],
-            "agotados": [
+            "disponibles": [
                 "https://guadarrama.coffee/products/siete-picos",
                 "https://guadarrama.coffee/products/aneto"
-            ]
+            ],
+            "agotados": []
         },
         "coffeeUrban": {
             "disponibles": [
@@ -90,21 +90,21 @@
             "agotados": []
         },
         "dalstonCoffee": {
-            "disponibles": [],
-            "agotados": [
+            "disponibles": [
                 "https://dalstoncoffee.com/products/etiopia-banko-gotiti-omni",
                 "https://dalstoncoffee.com/products/el-salvador-finca-anarquia-omni",
                 "https://dalstoncoffee.com/products/el-salvador-ovidio-flores"
-            ]
+            ],
+            "agotados": []
         },
         "gumaCoffee": {
-            "disponibles": [],
-            "agotados": [
+            "disponibles": [
                 "https://gumacoffee.com/products/blue-bear",
                 "https://gumacoffee.com/products/pink-tiger",
                 "https://gumacoffee.com/products/red-whale",
                 "https://gumacoffee.com/products/yellow-elephant"
-            ]
+            ],
+            "agotados": []
         }
     }
 }
