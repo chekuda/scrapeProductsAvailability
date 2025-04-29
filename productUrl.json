@@ -2,13 +2,13 @@
   "proveedores": {
     "ineffable": {
       "urls": [
-        "https://ineffablecoffee.com/producto/mama-mina-pacamara-peaberry-nicaragua-lavado/",
-        "https://ineffablecoffee.com/producto/edwin-norena-red-colombia-mossto-72h-co-fermentado/",
-        "https://ineffablecoffee.com/producto/el-rubi-colombia-lavado/",
-        "https://ineffablecoffee.com/producto/brioschi-family-brasil-lavado/",
-        "https://ineffablecoffee.com/producto/cafe-descafeinado-swiss-water/",
-        "https://ineffablecoffee.com/producto/tibebu-roba-etiopia-natural/",
-        "https://ineffablecoffee.com/producto/rodolfo-ruffatti-el-salvador-natural/"
+        "https://ineffablecoffee.com/products/mama-mina-pacamara-peaberry-nicaragua-lavado",
+        "https://ineffablecoffee.com/products/edwin-norena-red-colombia-mossto-72h-co-fermentado",
+        "https://ineffablecoffee.com/products/el-rubi-colombia-lavado",
+        "https://ineffablecoffee.com/products/brioschi-family-brasil-lavado",
+        "https://ineffablecoffee.com/products/cafe-descafeinado-swiss-water",
+        "https://ineffablecoffee.com/products/tibebu-roba",
+        "https://ineffablecoffee.com/products/rodolfo-ruffatti-el-salvador-natural"
       ]
     },
     "notTheSame": {
@@ -89,8 +89,7 @@
     "gumaCoffee": {
       "urls": [
         "https://gumacoffee.com/products/blue-bear",
-        "https://gumacoffee.com/products/red-whale",
-        "https://gumacoffee.com/products/yellow-elephant"
+        "https://gumacoffee.com/products/red-whale"
       ]
     },
     "sensorial": {
