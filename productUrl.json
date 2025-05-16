@@ -59,8 +59,7 @@
     "pamCoffee": {
       "urls": [
         "https://www.pamcoffee.es/en/products/hernan-ramirez-natural-peru",
-        "https://www.pamcoffee.es/en/products/52-inza-regional-colombia",
-        "https://www.pamcoffee.es/en/products/guadalupe-zaju-natural-mexico"
+        "https://www.pamcoffee.es/en/products/52-inza-regional-colombia"
       ]
     },
     "guadarrama": {
@@ -77,7 +76,6 @@
     },
     "dalstonCoffee": {
       "urls": [
-        "https://dalstoncoffee.com/products/etiopia-banko-gotiti-omni",
         "https://dalstoncoffee.com/products/el-salvador-ovidio-flores",
         "https://dalstoncoffee.com/products/colombia-el-dorado-espresso",
         "https://dalstoncoffee.com/products/burundi-nemba-omniroast",
@@ -93,7 +91,6 @@
     "sensorial": {
       "urls": [
         "https://sensorial.coffee/producto/cafe-de-colombia-wush-wush-natural/",
-        "https://sensorial.coffee/producto/cafe-de-costa-rica-yellow-honey/",
         "https://sensorial.coffee/producto/cafe-de-mexico-criollo-honey/",
         "https://sensorial.coffee/producto/pack-cafe-con-leche/",
         "https://sensorial.coffee/producto/cafe-de-colombia-bs-washed-fermented/"
