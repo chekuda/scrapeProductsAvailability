@@ -90,7 +90,12 @@
       ]
     },
     "sensorial": {
-      "urls": [""]
+      "urls": [
+        "https://sensorial.coffee/producto/cafe-de-mexico-criollo-honey/",
+        "https://sensorial.coffee/producto/cafe-de-costa-rica-honey-classic/",
+        "https://sensorial.coffee/producto/pack-cafe-con-leche/",
+        "https://sensorial.coffee/producto/cafe-de-brasil-ipr100-redcatuai/"
+      ]
     },
     "ganbaru": {
       "urls": [
