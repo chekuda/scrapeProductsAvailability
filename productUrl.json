@@ -61,10 +61,7 @@
       ]
     },
     "guadarrama": {
-      "urls": [
-        "https://guadarrama.coffee/products/siete-picos",
-        "https://guadarrama.coffee/products/aneto"
-      ]
+      "urls": ["https://guadarrama.coffee/products/aneto"]
     },
     "coffeeUrban": {
       "urls": [
