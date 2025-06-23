@@ -58,10 +58,7 @@
       ]
     },
     "pamCoffee": {
-      "urls": [
-        "https://cafedefinca.com/producto/cielito-lindo/",
-        "https://www.pamcoffee.es/en/products/asefa-dukamo-natural-ethiopia"
-      ]
+      "urls": [""]
     },
     "guadarrama": {
       "urls": [
@@ -100,7 +97,6 @@
     },
     "ganbaru": {
       "urls": [
-        "https://ganbarucoffee.com/products/costa-rica-mokka",
         "https://ganbarucoffee.com/products/costa-rica-mg2",
         "https://ganbarucoffee.com/products/peru-churupampa",
         "https://ganbarucoffee.com/products/rwanda-mushonyi"
