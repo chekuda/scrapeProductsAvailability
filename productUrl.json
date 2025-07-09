@@ -21,7 +21,7 @@
         "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/fazenda-paraiso-brazil",
         "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/blaq-soul-costa-rica",
         "https://www.atmanscoffee.com/en/products/giku-burundi",
-        "https://www.atmanscoffee.com/en/products/bet-el-colombia",
+        "https://www.atmanscoffee.com/products/bet-el-colombia",
         "https://www.atmanscoffee.com/en/products/bombe-ethiopia",
         "https://www.atmanscoffee.com/en/products/kamwangi-kenya"
       ]
@@ -74,7 +74,6 @@
     },
     "dalstonCoffee": {
       "urls": [
-        "https://dalstoncoffee.com/products/el-salvador-ovidio-flores",
         "https://dalstoncoffee.com/products/colombia-el-dorado-espresso",
         "https://dalstoncoffee.com/products/burundi-nemba-omniroast",
         "https://dalstoncoffee.com/products/peru-yolanda-cabrera-omniroast"
@@ -84,14 +83,16 @@
       "urls": [
         "https://gumacoffee.com/products/blue-bear",
         "https://gumacoffee.com/products/comprar-papua",
-        "https://gumacoffee.com/products/pink-tiger"
+        "https://gumacoffee.com/products/pink-tiger",
+        "https://gumacoffee.com/products/green-toucan"
       ]
     },
     "sensorial": {
       "urls": [
         "https://sensorial.coffee/producto/cafe-de-mexico-criollo-honey/",
         "https://sensorial.coffee/producto/pack-cafe-con-leche/",
-        "https://sensorial.coffee/producto/cafe-de-brasil-ipr100-redcatuai/"
+        "https://sensorial.coffee/producto/cafe-de-brasil-ipr100-redcatuai/",
+        "https://sensorial.coffee/producto/cafe-de-el-salvador-marsellesa-washed/"
       ]
     },
     "ganbaru": {
@@ -103,11 +104,11 @@
     },
     "wakeupCoffee": {
       "urls": [
-        "https://wakeupcoffee.es/tienda/king-kaldi-cafe-etiopia-natural/",
-        "https://wakeupcoffee.es/tienda/nuevo-mundo-cafe-colombia-fully-washed/",
-        "https://wakeupcoffee.es/tienda/red-sun-cafe-tanzania-fully-washed/",
-        "https://wakeupcoffee.es/tienda/orange-dream-cafe-etiopia-fully-washed/",
-        "https://wakeupcoffee.es/tienda/euphoria-cafe-colombia-fully-washed/"
+        "https://wakeupcoffee.es/cafe-especialidad/cafe-de-etiopia/king-kaldi-cafe-etiopia-natural/",
+        "https://wakeupcoffee.es/cafe-especialidad/cafe-de-colombia/nuevo-mundo-cafe-colombia-fully-washed/",
+        "https://wakeupcoffee.es/cafe-especialidad/cafe-de-tanzania/red-sun-cafe-tanzania-fully-washed/",
+        "https://wakeupcoffee.es/cafe-especialidad/cafe-de-etiopia/orange-dream-cafe-etiopia-fully-washed/",
+        "https://wakeupcoffee.es/cafe-especialidad/cafe-de-colombia/euphoria-cafe-colombia-fully-washed/"
       ]
     }
   }
