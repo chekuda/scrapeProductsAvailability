@@ -4,7 +4,6 @@
       "urls": [
         "https://ineffablecoffee.com/products/el-rubi-colombia-lavado",
         "https://ineffablecoffee.com/products/cafe-descafeinado-swiss-water",
-        "https://ineffablecoffee.com/products/worka-nensebo-etiopia-lavado",
         "https://ineffablecoffee.com/products/lamari-lavado-papua-nueva-guinea",
         "https://ineffablecoffee.com/products/cafe-indonesia",
         "https://ineffablecoffee.com/products/edwin-norena-watermelon"
@@ -35,7 +34,9 @@
         "https://www.sanagustin.com/producto/finca-la-incea-honduras/",
         "https://www.sanagustin.com/producto/tongwe-burundi/",
         "https://www.sanagustin.com/producto/la-fortuna/",
-        "https://www.sanagustin.com/producto/agua-bonita-colombia/"
+        "https://www.sanagustin.com/producto/agua-bonita-colombia/",
+        "https://www.sanagustin.com/producto/sao-pedro-da-canastra/",
+        "https://www.sanagustin.com/producto/santa-barbara/"
       ]
     },
     "cafeDeFinca": {
@@ -75,7 +76,6 @@
     },
     "dalstonCoffee": {
       "urls": [
-        "https://dalstoncoffee.com/products/colombia-el-dorado-espresso",
         "https://dalstoncoffee.com/products/burundi-nemba-omniroast",
         "https://dalstoncoffee.com/products/peru-yolanda-cabrera-omniroast"
       ]
