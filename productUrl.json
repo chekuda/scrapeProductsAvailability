@@ -2,7 +2,6 @@
   "proveedores": {
     "ineffable": {
       "urls": [
-        "https://ineffablecoffee.com/products/el-rubi-colombia-lavado",
         "https://ineffablecoffee.com/products/cafe-descafeinado-swiss-water",
         "https://ineffablecoffee.com/products/lamari-lavado-papua-nueva-guinea",
         "https://ineffablecoffee.com/products/cafe-indonesia",
@@ -18,7 +17,6 @@
     },
     "atmans": {
       "urls": [
-        "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/fazenda-paraiso-brazil",
         "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/blaq-soul-costa-rica",
         "https://www.atmanscoffee.com/en/products/giku-burundi",
         "https://www.atmanscoffee.com/products/bet-el-colombia",
