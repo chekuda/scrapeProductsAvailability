@@ -6,8 +6,7 @@
         "https://ineffablecoffee.com/products/lamari-lavado-papua-nueva-guinea",
         "https://ineffablecoffee.com/products/edwin-norena-watermelon",
         "https://ineffablecoffee.com/products/edwin-norena-purple",
-        "https://ineffablecoffee.com/products/shoondhisa",
-        "https://ineffablecoffee.com/products/gaharo-long-miles"
+        "https://ineffablecoffee.com/products/shoondhisa"
       ]
     },
     "notTheSame": {
@@ -23,17 +22,14 @@
         "https://www.atmanscoffee.com/en/products/giku-burundi",
         "https://www.atmanscoffee.com/products/bet-el-colombia",
         "https://www.atmanscoffee.com/en/products/bombe-ethiopia",
-        "https://www.atmanscoffee.com/en/products/kamwangi-kenya",
-        "https://www.atmanscoffee.com/en/products/montesol-nicaragua"
+        "https://www.atmanscoffee.com/en/products/kamwangi-kenya"
       ]
     },
     "sanAgustin": {
       "urls": [
         "https://www.sanagustin.com/producto/colombia-descafeinado-huila/",
         "https://www.sanagustin.com/producto/nyamasheke-ruanda/",
-        "https://www.sanagustin.com/producto/finca-la-incea-honduras/",
         "https://www.sanagustin.com/producto/tongwe-burundi/",
-        "https://www.sanagustin.com/producto/la-fortuna/",
         "https://www.sanagustin.com/producto/agua-bonita-colombia/",
         "https://www.sanagustin.com/producto/sao-pedro-da-canastra/",
         "https://www.sanagustin.com/producto/santa-barbara/",
@@ -56,7 +52,6 @@
     "talento": {
       "urls": [
         "https://talentocoffee.com/products/ethiopia-limu-gera",
-        "https://talentocoffee.com/products/rwanda-kivu",
         "https://talentocoffee.com/products/mexico-san-jose-ixtepec-chiapas"
       ]
     },
@@ -82,7 +77,6 @@
     },
     "dalstonCoffee": {
       "urls": [
-        "https://dalstoncoffee.com/products/burundi-nemba-omniroast",
         "https://dalstoncoffee.com/products/peru-yolanda-cabrera-omniroast",
         "https://dalstoncoffee.com/products/brasil-parana-espresso",
         "https://dalstoncoffee.com/products/tome-omniroast"
@@ -108,7 +102,6 @@
     },
     "ganbaru": {
       "urls": [
-        "https://ganbarucoffee.com/products/costa-rica-mg2",
         "https://ganbarucoffee.com/products/peru-churupampa",
         "https://ganbarucoffee.com/products/rwanda-mushonyi"
       ]
