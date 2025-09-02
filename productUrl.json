@@ -53,10 +53,7 @@
       ]
     },
     "talento": {
-      "urls": [
-        "https://talentocoffee.com/products/ethiopia-limu-gera",
-        "https://talentocoffee.com/products/mexico-san-jose-ixtepec-chiapas"
-      ]
+      "urls": ["https://talentocoffee.com/products/mexico-san-jose-ixtepec-chiapas"]
     },
     "pamCoffee": {
       "urls": [
