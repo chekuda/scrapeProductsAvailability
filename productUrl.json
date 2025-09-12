@@ -12,7 +12,6 @@
     },
     "notTheSame": {
       "urls": [
-        "https://notthesame.es/en/products/cafe-especialidad-honduras-manos-de-mujer",
         "https://notthesame.es/en/products/cafe-de-especialidad-colombia",
         "https://notthesame.es/en/products/decaf-colombia-el-puente",
         "https://notthesame.es/en/products/mora-la-reserva"
@@ -78,7 +77,9 @@
       "urls": [
         "https://dalstoncoffee.com/products/peru-yolanda-cabrera-omniroast",
         "https://dalstoncoffee.com/products/brasil-parana-espresso",
-        "https://dalstoncoffee.com/products/tome-omniroast"
+        "https://dalstoncoffee.com/products/tome-omniroast",
+        "https://dalstoncoffee.com/products/colombia-lord-voldemort-omniroast",
+        "https://dalstoncoffee.com/products/nicaragua-java-omniroast"
       ]
     },
     "gumaCoffee": {
@@ -96,13 +97,17 @@
         "https://sensorial.coffee/producto/pack-cafe-con-leche/",
         "https://sensorial.coffee/producto/cafe-de-brasil-ipr100-redcatuai/",
         "https://sensorial.coffee/producto/cafe-de-el-salvador-marsellesa-washed/",
-        "https://sensorial.coffee/producto/comprar-cafe-en-grano-colombia-caturra/"
+        "https://sensorial.coffee/producto/comprar-cafe-en-grano-colombia-caturra/",
+        "https://sensorial.coffee/producto/pack-cafes-para-espresso/"
       ]
     },
     "ganbaru": {
       "urls": [
         "https://ganbarucoffee.com/products/peru-churupampa",
-        "https://ganbarucoffee.com/products/rwanda-mushonyi"
+        "https://ganbarucoffee.com/products/rwanda-mushonyi",
+        "https://ganbarucoffee.com/products/colombia-anaya-ombligon",
+        "https://ganbarucoffee.com/products/colombia-caturra-syrup",
+        "https://ganbarucoffee.com/products/colombia-cinnamon-roll"
       ]
     },
     "wakeupCoffee": {
