@@ -6,7 +6,6 @@
         "https://ineffablecoffee.com/products/lamari-lavado-papua-nueva-guinea",
         "https://ineffablecoffee.com/products/edwin-norena-watermelon",
         "https://ineffablecoffee.com/products/shoondhisa",
-        "https://ineffablecoffee.com/products/baroida",
         "https://ineffablecoffee.com/products/chelbesa"
       ]
     },
@@ -75,10 +74,7 @@
       ]
     },
     "coffeeUrban": {
-      "urls": [
-        "https://coffeeurbanroasters.com/africa/84-cafe-etiopia-limu.html",
-        "https://coffeeurbanroasters.com/africa/83-cafe-kenia-ab.html"
-      ]
+      "urls": ["https://coffeeurbanroasters.com/africa/84-cafe-etiopia-limu.html"]
     },
     "dalstonCoffee": {
       "urls": [
@@ -113,7 +109,6 @@
         "https://ganbarucoffee.com/products/peru-churupampa",
         "https://ganbarucoffee.com/products/rwanda-mushonyi",
         "https://ganbarucoffee.com/products/colombia-anaya-ombligon",
-        "https://ganbarucoffee.com/products/colombia-caturra-syrup",
         "https://ganbarucoffee.com/products/colombia-cinnamon-roll"
       ]
     },
