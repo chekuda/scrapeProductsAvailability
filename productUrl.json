@@ -5,7 +5,6 @@
         "https://ineffablecoffee.com/products/cafe-descafeinado-swiss-water",
         "https://ineffablecoffee.com/products/lamari-lavado-papua-nueva-guinea",
         "https://ineffablecoffee.com/products/edwin-norena-watermelon",
-        "https://ineffablecoffee.com/products/shoondhisa",
         "https://ineffablecoffee.com/products/chelbesa"
       ]
     },
@@ -77,7 +76,6 @@
     },
     "dalstonCoffee": {
       "urls": [
-        "https://dalstoncoffee.com/products/peru-yolanda-cabrera-omniroast",
         "https://dalstoncoffee.com/products/brasil-parana-espresso",
         "https://dalstoncoffee.com/products/tome-omniroast",
         "https://dalstoncoffee.com/products/colombia-lord-voldemort-omniroast",
