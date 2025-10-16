@@ -117,6 +117,13 @@
         "https://wakeupcoffee.es/cafe-especialidad/cafe-de-etiopia/orange-dream-cafe-etiopia-fully-washed/",
         "https://wakeupcoffee.es/cafe-especialidad/cafe-de-colombia/euphoria-cafe-colombia-fully-washed/"
       ]
+    },
+    "sinaz": {
+      "urls": [
+        "https://sinaz.coffee/03-cafe-especialidad-guatemala-geisha/",
+        "https://sinaz.coffee/05-cafe-especialidad-guatemala-semianaerobico/",
+        "https://sinaz.coffee/04-cafe-especialidad-nicaragua-anaerobico/"
+      ]
     }
   }
 }
