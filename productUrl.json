@@ -5,7 +5,8 @@
         "https://ineffablecoffee.com/products/cafe-descafeinado-swiss-water",
         "https://ineffablecoffee.com/products/lamari-lavado-papua-nueva-guinea",
         "https://ineffablecoffee.com/products/edwin-norena-watermelon",
-        "https://ineffablecoffee.com/products/chelbesa"
+        "https://ineffablecoffee.com/products/chelbesa",
+        "https://ineffablecoffee.com/products/tembo-tembo"
       ]
     },
     "notTheSame": {
@@ -72,7 +73,10 @@
       ]
     },
     "coffeeUrban": {
-      "urls": []
+      "urls": [
+        "https://coffeeurbanroasters.com/norte-centroamerica/79-cafe-descafeinado-de-especialidad-mexico-chabela.html",
+        "https://coffeeurbanroasters.com/sudamerica/40-cafe-especialidad-brasil-mogiana-alta.html"
+      ]
     },
     "dalstonCoffee": {
       "urls": [
