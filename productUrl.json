@@ -23,7 +23,9 @@
         "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/blaq-soul-costa-rica",
         "https://www.atmanscoffee.com/en/products/giku-burundi",
         "https://www.atmanscoffee.com/products/bet-el-colombia",
-        "https://www.atmanscoffee.com/en/products/kamwangi-kenya"
+        "https://www.atmanscoffee.com/en/products/kamwangi-kenya",
+        "https://www.atmanscoffee.com/en/products/montesol-nicaragua",
+        "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/tinshe-guye-ethiopia"
       ]
     },
     "sanAgustin": {
@@ -55,7 +57,8 @@
       "urls": [
         "https://talentocoffee.com/products/mexico-san-jose-ixtepec-chiapas",
         "https://talentocoffee.com/products/peru-san-ignacio",
-        "https://talentocoffee.com/products/honduras-marcala-las-flores"
+        "https://talentocoffee.com/products/honduras-marcala-las-flores",
+        "https://talentocoffee.com/products/rwanda-kivu"
       ]
     },
     "pamCoffee": {
@@ -72,14 +75,13 @@
     },
     "coffeeUrban": {
       "urls": [
-        "https://coffeeurbanroasters.com/norte-centroamerica/79-cafe-descafeinado-de-especialidad-mexico-chabela.html",
+        "https://coffeeurbanroasters.com/norte-centroamerica/48-cafe-de-especialidad-colombia-golden-huila-lavado.html",
         "https://coffeeurbanroasters.com/sudamerica/40-cafe-especialidad-brasil-mogiana-alta.html"
       ]
     },
     "dalstonCoffee": {
       "urls": [
         "https://dalstoncoffee.com/products/brasil-parana-espresso",
-        "https://dalstoncoffee.com/products/tome-omniroast",
         "https://dalstoncoffee.com/products/colombia-lord-voldemort-omniroast",
         "https://dalstoncoffee.com/products/nicaragua-java-omniroast"
       ]
