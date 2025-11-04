@@ -1,0 +1,150 @@
+{
+    "proveedores": {
+        "ineffable": {
+            "disponibles": [
+                "https://ineffablecoffee.com/products/cafe-descafeinado-swiss-water",
+                "https://ineffablecoffee.com/products/edwin-norena-watermelon",
+                "https://ineffablecoffee.com/products/chelbesa",
+                "https://ineffablecoffee.com/products/tembo-tembo"
+            ],
+            "agotados": [
+                "https://ineffablecoffee.com/products/lamari-lavado-papua-nueva-guinea"
+            ]
+        },
+        "notTheSame": {
+            "disponibles": [
+                "https://notthesame.es/en/products/cafe-de-especialidad-colombia",
+                "https://notthesame.es/en/products/mora-la-reserva",
+                "https://notthesame.es/products/sidra-la-reserva",
+                "https://notthesame.es/products/cafe-de-especialidad-mexico",
+                "https://notthesame.es/products/ethiopia"
+            ],
+            "agotados": []
+        },
+        "atmans": {
+            "disponibles": [
+                "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/blaq-soul-costa-rica",
+                "https://www.atmanscoffee.com/en/products/giku-burundi",
+                "https://www.atmanscoffee.com/en/products/kamwangi-kenya"
+            ],
+            "agotados": [
+                "https://www.atmanscoffee.com/products/bet-el-colombia",
+                "https://www.atmanscoffee.com/en/products/montesol-nicaragua",
+                "https://www.atmanscoffee.com/en/collections/cafes-para-espresso/products/tinshe-guye-ethiopia"
+            ]
+        },
+        "sanAgustin": {
+            "disponibles": [],
+            "agotados": [
+                "https://www.sanagustin.com/producto/colombia-descafeinado-huila/",
+                "https://www.sanagustin.com/producto/sao-pedro-da-canastra/",
+                "https://www.sanagustin.com/producto/santa-barbara/",
+                "https://www.sanagustin.com/producto/ruera-estate-kenia/",
+                "https://www.sanagustin.com/producto/cuatro-caminos-panama/",
+                "https://www.sanagustin.com/producto/oromia-etiopia/",
+                "https://www.sanagustin.com/producto/brew-bags-agua-bonita-colombia/",
+                "https://www.sanagustin.com/producto/aricha-etiopia/",
+                "https://www.sanagustin.com/producto/el-rancho-colombia-pink-bourbon/"
+            ]
+        },
+        "cafeDeFinca": {
+            "disponibles": [
+                "https://cafedefinca.com/producto/santa-cecilia-drip/",
+                "https://cafedefinca.com/producto/san-jose-espresso/",
+                "https://cafedefinca.com/producto/tres-milagros-costa-rica-2/",
+                "https://cafedefinca.com/producto/cielito-lindo/",
+                "https://cafedefinca.com/producto/santa-cecilia-espresso/",
+                "https://cafedefinca.com/producto/supremo-espresso/",
+                "https://cafedefinca.com/producto/himalaya-espresso/",
+                "https://cafedefinca.com/producto/atzumpa/"
+            ],
+            "agotados": []
+        },
+        "talento": {
+            "disponibles": [
+                "https://talentocoffee.com/products/mexico-san-jose-ixtepec-chiapas",
+                "https://talentocoffee.com/products/peru-san-ignacio",
+                "https://talentocoffee.com/products/honduras-marcala-las-flores",
+                "https://talentocoffee.com/products/rwanda-kivu"
+            ],
+            "agotados": []
+        },
+        "pamCoffee": {
+            "disponibles": [
+                "https://www.pamcoffee.es/en/products/uganda-elgon-manafwa-uganda",
+                "https://www.pamcoffee.es/en/products/alto-mayo-regional-peru"
+            ],
+            "agotados": []
+        },
+        "guadarrama": {
+            "disponibles": [],
+            "agotados": [
+                "https://guadarrama.coffee/products/aneto",
+                "https://guadarrama.coffee/products/la-granja"
+            ]
+        },
+        "coffeeUrban": {
+            "disponibles": [
+                "https://coffeeurbanroasters.com/norte-centroamerica/48-cafe-de-especialidad-colombia-golden-huila-lavado.html",
+                "https://coffeeurbanroasters.com/sudamerica/40-cafe-especialidad-brasil-mogiana-alta.html"
+            ],
+            "agotados": []
+        },
+        "dalstonCoffee": {
+            "disponibles": [
+                "https://dalstoncoffee.com/products/brasil-parana-espresso",
+                "https://dalstoncoffee.com/products/colombia-lord-voldemort-omniroast",
+                "https://dalstoncoffee.com/products/nicaragua-java-omniroast"
+            ],
+            "agotados": []
+        },
+        "gumaCoffee": {
+            "disponibles": [
+                "https://gumacoffee.com/products/blue-bear",
+                "https://gumacoffee.com/products/comprar-papua",
+                "https://gumacoffee.com/products/pink-tiger",
+                "https://gumacoffee.com/products/green-toucan",
+                "https://gumacoffee.com/products/pack-espresso"
+            ],
+            "agotados": []
+        },
+        "sensorial": {
+            "disponibles": [],
+            "agotados": [
+                "https://sensorial.coffee/producto/cafe-de-mexico-criollo-honey/",
+                "https://sensorial.coffee/producto/pack-cafe-con-leche/",
+                "https://sensorial.coffee/producto/cafe-de-brasil-ipr100-redcatuai/",
+                "https://sensorial.coffee/producto/cafe-de-el-salvador-marsellesa-washed/",
+                "https://sensorial.coffee/producto/comprar-cafe-en-grano-colombia-caturra/",
+                "https://sensorial.coffee/producto/pack-cafes-para-espresso/"
+            ]
+        },
+        "ganbaru": {
+            "disponibles": [
+                "https://ganbarucoffee.com/products/peru-churupampa",
+                "https://ganbarucoffee.com/products/rwanda-mushonyi",
+                "https://ganbarucoffee.com/products/colombia-anaya-ombligon",
+                "https://ganbarucoffee.com/products/colombia-cinnamon-roll"
+            ],
+            "agotados": []
+        },
+        "wakeupCoffee": {
+            "disponibles": [
+                "https://wakeupcoffee.es/cafe-especialidad/cafe-de-etiopia/king-kaldi-cafe-etiopia-natural/",
+                "https://wakeupcoffee.es/cafe-especialidad/cafe-de-colombia/nuevo-mundo-cafe-colombia-fully-washed/",
+                "https://wakeupcoffee.es/cafe-especialidad/cafe-de-tanzania/red-sun-cafe-tanzania-fully-washed/",
+                "https://wakeupcoffee.es/cafe-especialidad/cafe-de-etiopia/orange-dream-cafe-etiopia-fully-washed/",
+                "https://wakeupcoffee.es/cafe-especialidad/cafe-de-colombia/euphoria-cafe-colombia-fully-washed/"
+            ],
+            "agotados": []
+        },
+        "sinaz": {
+            "disponibles": [
+                "https://sinaz.coffee/03-cafe-especialidad-guatemala-geisha/",
+                "https://sinaz.coffee/05-cafe-especialidad-guatemala-semianaerobico/",
+                "https://sinaz.coffee/04-cafe-especialidad-nicaragua-anaerobico/"
+            ],
+            "agotados": []
+        }
+    }
+}
