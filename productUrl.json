@@ -31,7 +31,6 @@
       "urls": [
         "https://www.sanagustin.com/producto/colombia-descafeinado-huila/",
         "https://www.sanagustin.com/producto/sao-pedro-da-canastra/",
-        "https://www.sanagustin.com/producto/santa-barbara/",
         "https://www.sanagustin.com/producto/ruera-estate-kenia/",
         "https://www.sanagustin.com/producto/cuatro-caminos-panama/",
         "https://www.sanagustin.com/producto/oromia-etiopia/",
@@ -82,7 +81,7 @@
       "urls": [
         "https://dalstoncoffee.com/products/brasil-parana-espresso",
         "https://dalstoncoffee.com/products/colombia-lord-voldemort-omniroast",
-        "https://dalstoncoffee.com/products/nicaragua-java-omniroast"
+        "https://dalstoncoffee.com/products/costa-rica-buho-espresso"
       ]
     },
     "gumaCoffee": {
@@ -124,7 +123,6 @@
     "sinaz": {
       "urls": [
         "https://sinaz.coffee/03-cafe-especialidad-guatemala-geisha/",
-        "https://sinaz.coffee/05-cafe-especialidad-guatemala-semianaerobico/",
         "https://sinaz.coffee/04-cafe-especialidad-nicaragua-anaerobico/"
       ]
     }
