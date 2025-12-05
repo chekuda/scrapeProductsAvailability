@@ -6,7 +6,8 @@
         "https://ineffablecoffee.com/products/chelbesa",
         "https://ineffablecoffee.com/products/tembo-tembo",
         "https://ineffablecoffee.com/products/familia-rosales",
-        "https://ineffablecoffee.com/products/slopes-of-mount-kenya"
+        "https://ineffablecoffee.com/products/slopes-of-mount-kenya",
+        "https://ineffablecoffee.com/products/el-higueron-reposado"
       ]
     },
     "notTheSame": {
@@ -121,6 +122,8 @@
     },
     "sinaz": {
       "urls": [
+        "https://sinaz.coffee/no-07-el-salvador-lavado-bourbon/",
+        "https://sinaz.coffee/no-08-costa-rica-honey-typica/",
         "https://sinaz.coffee/03-cafe-especialidad-guatemala-geisha/",
         "https://sinaz.coffee/04-cafe-especialidad-nicaragua-anaerobico/"
       ]
