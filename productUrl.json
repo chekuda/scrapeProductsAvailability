@@ -4,7 +4,6 @@
       "urls": [
         "https://ineffablecoffee.com/products/cafe-descafeinado-swiss-water",
         "https://ineffablecoffee.com/products/familia-rosales",
-        "https://ineffablecoffee.com/products/slopes-of-mount-kenya",
         "https://ineffablecoffee.com/products/bookkisa",
         "https://ineffablecoffee.com/products/las-brisas-guatemala-lavado"
       ]
@@ -61,10 +60,7 @@
       ]
     },
     "pamCoffee": {
-      "urls": [
-        "https://www.pamcoffee.es/en/products/uganda-elgon-manafwa-uganda",
-        "https://www.pamcoffee.es/en/products/alto-mayo-regional-peru"
-      ]
+      "urls": ["https://www.pamcoffee.es/en/products/uganda-elgon-manafwa-uganda"]
     },
     "guadarrama": {
       "urls": [
