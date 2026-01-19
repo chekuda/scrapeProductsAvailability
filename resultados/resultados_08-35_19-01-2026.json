@@ -68,7 +68,11 @@
       "agotados": []
     },
     "pamCoffee": {
-      "disponibles": ["https://www.pamcoffee.es/en/products/uganda-elgon-manafwa-uganda"],
+      "disponibles": [
+        "https://www.pamcoffee.es/en/products/uganda-elgon-manafwa-uganda",
+        "https://www.pamcoffee.es/en/products/nueva-segovia-regional-nicaragua",
+        "https://www.pamcoffee.es/en/products/52-inza-regional-colombia-copia"
+      ],
       "agotados": []
     },
     "guadarrama": {
